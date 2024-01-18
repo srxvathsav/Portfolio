@@ -1,0 +1,32 @@
+{
+    "projects": [
+            { 
+                "title" : "Attendance Tracker using Facial Recognition",
+                "desc" : "Automated Face Attendance Tracker: A Python program leveraging computer vision for real-time face detection and attendance recording.",
+                "link" : "https://github.com/srxvathsav/Face-Recognition-Project",
+                "isHosted" : false,
+                "demo" : ""
+            },
+            {
+                "title" : "Foodify - A food ordering webiste using ReactJS",
+                "desc" : "Built a secure MERN stack web app for online food ordering, featuring user authentication with JWT, and a RESTful API for seamless CRUD operations.",
+                "link" : "https://github.com/srxvathsav/food-ordering-mern",
+                "isHosted" : true,
+                "demo" : "https://srxvathsav.github.io/food-ordering-mern/"
+            },
+            {
+                "title" : "Airbnb clone using ReactJS",
+                "desc" : "A front-end website that mimics the basic functionalities of airbnb's hotel booking and reservations systems",
+                "link" : "https://github.com/srxvathsav/airbnb",
+                "isHosted" : true,
+                "demo" : "https://airbnb-presidio-e7ef5.web.app/"
+            },
+            {
+                "title" : "Bus Ticket Reservation Bot using RPA",
+                "desc" : "Automated bus ticket booking with UI Path RPA, integrated email notifications, and streamlined user experience for efficient, hassle-free ticket reservations.",
+                "link" : "https://github.com/srxvathsav/Bus-Ticket-Reservation-RPA",
+                "isHosted" : false,
+                "demo" : ""
+            }
+        ]
+}

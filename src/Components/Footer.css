@@ -1,0 +1,27 @@
+footer {
+    background-color: black;
+    color: white;
+}
+
+.soc-icon {
+    padding: 10px;
+    margin-right: 5px;
+}
+
+.h5text {
+    text-align: center;
+    font-weight: 600;
+    /* font-family: ; */
+}
+
+.h4text {
+    text-align: left;
+    font-weight: 600;
+}
+
+p {
+    text-align: justify;
+    font-style: italic;
+    font-weight: 100;
+    text-wrap: wrap;
+}

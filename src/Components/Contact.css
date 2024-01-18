@@ -1,0 +1,32 @@
+.main-box {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #7E6363;
+    color: white;
+}
+
+textarea {
+    background-color: #000000;
+
+}
+
+h3 {
+    margin-top: 5px;
+    text-align: center;
+    text-wrap: wrap;
+}
+
+#lab {
+    text-align: left;
+}
+
+.row {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}

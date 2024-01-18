@@ -1,0 +1,45 @@
+.card {
+    width: 18rem;
+    height: 370px;
+    /* Set a fixed height for the card */
+    background-color: black;
+    color: #e6edf3;
+    padding: 5px;
+    margin: 5px;
+    overflow-y: hidden;
+    /* Hide overflowed content */
+}
+
+.card-img-top {
+    height: 100px;
+    width: 100px;
+    margin: auto;
+}
+
+.card-text {
+    margin-top: 5px;
+    text-align: justify;
+    height: 120px;
+    overflow-y: auto;
+    max-height: 200px;
+    padding: 0px 0px;
+}
+
+.card-title {
+    text-align: center;
+    height: 48px;
+}
+
+.buttons {
+    margin-left: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttons>* {
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    justify-content: center;
+    align-items: center;
+}
